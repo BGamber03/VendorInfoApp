@@ -29,7 +29,7 @@ namespace VendorInfoApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (txtUsername.Text == "BlakeGamber" && txtPasswords.Text == "Password")
+            if (txtUsername.Text == "Blake" && txtPasswords.Text == "Passwords")
             {
                 new VendorInfo().Show();
                 this.Hide();
