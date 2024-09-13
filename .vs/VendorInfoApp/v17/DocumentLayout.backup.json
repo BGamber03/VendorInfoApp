@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Blake\\source\\repos\\VendorInfoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC34639C-B0FD-44EB-AC31-92F43C61A25F}|VendorInfoApp\\VendorInfoApp.csproj|c:\\users\\blake\\source\\repos\\vendorinfoapp\\vendorinfoapp\\vendorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC34639C-B0FD-44EB-AC31-92F43C61A25F}|VendorInfoApp\\VendorInfoApp.csproj|solutionrelative:vendorinfoapp\\vendorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC34639C-B0FD-44EB-AC31-92F43C61A25F}|VendorInfoApp\\VendorInfoApp.csproj|c:\\users\\blake\\source\\repos\\vendorinfoapp\\vendorinfoapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC34639C-B0FD-44EB-AC31-92F43C61A25F}|VendorInfoApp\\VendorInfoApp.csproj|solutionrelative:vendorinfoapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC34639C-B0FD-44EB-AC31-92F43C61A25F}|VendorInfoApp\\VendorInfoApp.csproj|c:\\users\\blake\\source\\repos\\vendorinfoapp\\vendorinfoapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC34639C-B0FD-44EB-AC31-92F43C61A25F}|VendorInfoApp\\VendorInfoApp.csproj|solutionrelative:vendorinfoapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC34639C-B0FD-44EB-AC31-92F43C61A25F}|VendorInfoApp\\VendorInfoApp.csproj|c:\\users\\blake\\source\\repos\\vendorinfoapp\\vendorinfoapp\\vendorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC34639C-B0FD-44EB-AC31-92F43C61A25F}|VendorInfoApp\\VendorInfoApp.csproj|solutionrelative:vendorinfoapp\\vendorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\Blake\\source\\repos\\VendorInfoApp\\VendorInfoApp\\LogIn.cs",
+              "RelativeDocumentMoniker": "VendorInfoApp\\LogIn.cs",
+              "ToolTip": "C:\\Users\\Blake\\source\\repos\\VendorInfoApp\\VendorInfoApp\\LogIn.cs",
+              "RelativeToolTip": "VendorInfoApp\\LogIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:53:35.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendorInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Blake\\source\\repos\\VendorInfoApp\\VendorInfoApp\\VendorInfo.cs",
+              "RelativeDocumentMoniker": "VendorInfoApp\\VendorInfo.cs",
+              "ToolTip": "C:\\Users\\Blake\\source\\repos\\VendorInfoApp\\VendorInfoApp\\VendorInfo.cs",
+              "RelativeToolTip": "VendorInfoApp\\VendorInfo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:02:57.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blake\\source\\repos\\VendorInfoApp\\VendorInfoApp\\LogIn.cs",
+              "RelativeDocumentMoniker": "VendorInfoApp\\LogIn.cs",
+              "ToolTip": "C:\\Users\\Blake\\source\\repos\\VendorInfoApp\\VendorInfoApp\\LogIn.cs [Design]",
+              "RelativeToolTip": "VendorInfoApp\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:37:26.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendorInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blake\\source\\repos\\VendorInfoApp\\VendorInfoApp\\VendorInfo.cs",
+              "RelativeDocumentMoniker": "VendorInfoApp\\VendorInfo.cs",
+              "ToolTip": "C:\\Users\\Blake\\source\\repos\\VendorInfoApp\\VendorInfoApp\\VendorInfo.cs [Design]",
+              "RelativeToolTip": "VendorInfoApp\\VendorInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:53:16.028Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

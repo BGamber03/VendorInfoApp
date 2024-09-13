@@ -1,0 +1,11 @@
+C:\Users\Blake\source\repos\VendorInfoApp\VendorInfoApp\bin\Debug\VendorInfoApp.exe.config
+C:\Users\Blake\source\repos\VendorInfoApp\VendorInfoApp\bin\Debug\VendorInfoApp.exe
+C:\Users\Blake\source\repos\VendorInfoApp\VendorInfoApp\bin\Debug\VendorInfoApp.pdb
+C:\Users\Blake\source\repos\VendorInfoApp\VendorInfoApp\obj\Debug\VendorInfoApp.csproj.AssemblyReference.cache
+C:\Users\Blake\source\repos\VendorInfoApp\VendorInfoApp\obj\Debug\VendorInfoApp.Form1.resources
+C:\Users\Blake\source\repos\VendorInfoApp\VendorInfoApp\obj\Debug\VendorInfoApp.Properties.Resources.resources
+C:\Users\Blake\source\repos\VendorInfoApp\VendorInfoApp\obj\Debug\VendorInfoApp.VendorInfo.resources
+C:\Users\Blake\source\repos\VendorInfoApp\VendorInfoApp\obj\Debug\VendorInfoApp.csproj.GenerateResource.cache
+C:\Users\Blake\source\repos\VendorInfoApp\VendorInfoApp\obj\Debug\VendorInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\Blake\source\repos\VendorInfoApp\VendorInfoApp\obj\Debug\VendorInfoApp.exe
+C:\Users\Blake\source\repos\VendorInfoApp\VendorInfoApp\obj\Debug\VendorInfoApp.pdb
